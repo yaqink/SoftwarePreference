@@ -3,3 +3,6 @@
 程序 | 用途
 --- | --- 
 Mjolnir | Window Manager 快速切换窗口
+Rime/Squirrel | 鼠鬚管輸入法
+Karabiner | 鍵盤映射
+zsh | zsh Shell

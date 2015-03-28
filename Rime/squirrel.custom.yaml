@@ -1,0 +1,14 @@
+# Patch to Squirrel.yaml by yaqinking
+patch:
+  "style/color_scheme": starcraft
+  "style/font_point": 18
+  "style/horizontal": true
+
+
+  "us_keyboard_layout": true
+
+# Default en-us application
+  app_options/com.apple.finder:
+    ascii_mode: true
+  app_options/com.google.Chrome:
+    ascii_mode: true
