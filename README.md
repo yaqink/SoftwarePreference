@@ -7,3 +7,4 @@ Rime/Squirrel | 鼠鬚管輸入法
 Karabiner | 鍵盤映射
 zsh | zsh Shell
 bgm2to.sh | 輸入一個動畫名字和集數，輸出一個 todo 列表（方便和 HabitRPG 搭配新建任務用。）
+CSS/Stylebot.json | 使用的网站添加的自定义 CSS 规则。（ChromeExtension Stylebot 备份。）
